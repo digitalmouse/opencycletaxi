@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features":
+  [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "type": "driver",
+        "name": "jimm",
+        "photo": "images/max-n-jimm-cycletaxi2.png",
+        "mobile": "+4551423459",
+        "email": "cycletaxi.jimm@gmail.com",
+        "options": "4 DKK/minute, guided tour deals, pets ok",
+        "status": "available",
+        "rating": "3 out of 4 (2 reviews posted)",
+        "reviews": "<br>- driver needs new equipment.<br>- great ride! knowledgeable of the city<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5824748,
+          55.6666953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "type": "driver",
+        "name": "Gili",
+        "photo": "images/gili.jpg",
+        "mobile": "+4551423459",
+        "email": "digitalmouse@gmail.com",
+        "options": "smoking ok, blankets and beer available",
+        "status": "available",
+        "rating": "4 out of 4 (1 reviews posted)",
+        "reviews": "<br>- good ride!  lots of fun!<br>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5659024715424,
+          55.6730635126025
+        ]
+      }
+    }
+  ]
+}

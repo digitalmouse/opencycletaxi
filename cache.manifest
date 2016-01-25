@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# attempt to stop OpenCycleTaxi from being cached during development
+#
+
+NETWORK:
+index.js
+index.html
+index.css
+drivers.json
+
+FALLBACK:
+offline.html

@@ -1,0 +1,22 @@
+{
+   "place_id":"11829398",
+   "licence":"Data \u00a9 OpenStreetMap contributors, ODbL1.0.http:\/\/www.openstreetmap.org\/copyright",
+   "osm_type":"node",
+   "osm_id":"1042414474",
+   "lat":"55.7062845",
+   "lon":"12.5393915",
+   "display_name":"Copenhagen School of Technology and Design, 16, Lygten, N\u00f8rrebro, Bispebjerg, K\u00f8benhavns Kommune, Capital Region of Denmark, 2400, Denmark",
+   "address":
+   {
+      "university":"Copenhagen School of Technology and Design",
+      "house_number":"16",
+      "road":"Lygten",
+      "suburb":"N\u00f8rrebro",
+      "village":"Bispebjerg",
+      "county":"K\u00f8benhavns Kommune",
+      "state":"Capital Region of Denmark",
+      "postcode":"2400",
+      "country":"Denmark",
+      "country_code":"dk"
+   }
+}
